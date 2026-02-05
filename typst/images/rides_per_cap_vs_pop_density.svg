@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="203.2mm" height="127mm" viewBox="0 0 203.2 127"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<defs>
+  <marker id="arrow" markerWidth="15" markerHeight="7" refX="5" refY="3.5" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L15,3.5 L0,7 z" stroke="context-stroke" fill="context-stroke"/>
+  </marker>
+</defs>
+<g class="plotroot xscalable yscalable" id="img-5b874d3c-1">
+  <g font-size="5.64" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5b874d3c-2">
+    <g transform="translate(109.72,113.36)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Population Density (people per square kilometer)</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5b874d3c-3">
+    <g transform="translate(23.23,107.59)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">500</text>
+      </g>
+    </g>
+    <g transform="translate(57.82,107.59)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">1000</text>
+      </g>
+    </g>
+    <g transform="translate(92.42,107.59)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">1500</text>
+      </g>
+    </g>
+    <g transform="translate(127.01,107.59)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2000</text>
+      </g>
+    </g>
+    <g transform="translate(161.61,107.59)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">2500</text>
+      </g>
+    </g>
+    <g transform="translate(196.2,107.59)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">3000</text>
+      </g>
+    </g>
+  </g>
+  <g clip-path="url(#img-5b874d3c-4)">
+    <g id="img-5b874d3c-5">
+      <g pointer-events="visible" stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-5b874d3c-6">
+        <g transform="translate(109.72,59.62)" id="img-5b874d3c-7">
+          <path d="M-88.48,-46.97 L88.48,-46.97 88.48,46.97 -88.48,46.97  z" class="primitive"/>
+        </g>
+      </g>
+      <g class="guide ygridlines xfixed" stroke-dasharray="none" stroke-width="0.5" stroke="#D0D0E0" id="img-5b874d3c-8">
+        <g transform="translate(109.72,104.59)" id="img-5b874d3c-9">
+          <path fill="none" d="M-88.48,0 L88.48,0 " class="primitive"/>
+        </g>
+        <g transform="translate(109.72,82.1)" id="img-5b874d3c-10">
+          <path fill="none" d="M-88.48,0 L88.48,0 " class="primitive"/>
+        </g>
+        <g transform="translate(109.72,59.62)" id="img-5b874d3c-11">
+          <path fill="none" d="M-88.48,0 L88.48,0 " class="primitive"/>
+        </g>
+        <g transform="translate(109.72,37.13)" id="img-5b874d3c-12">
+          <path fill="none" d="M-88.48,0 L88.48,0 " class="primitive"/>
+        </g>
+        <g transform="translate(109.72,14.64)" id="img-5b874d3c-13">
+          <path fill="none" d="M-88.48,0 L88.48,0 " class="primitive"/>
+        </g>
+      </g>
+      <g class="guide xgridlines yfixed" stroke-dasharray="none" stroke-width="0.5" stroke="#D0D0E0" id="img-5b874d3c-14">
+        <g transform="translate(23.23,59.62)" id="img-5b874d3c-15">
+          <path fill="none" d="M0,-46.97 L0,46.97 " class="primitive"/>
+        </g>
+        <g transform="translate(57.82,59.62)" id="img-5b874d3c-16">
+          <path fill="none" d="M0,-46.97 L0,46.97 " class="primitive"/>
+        </g>
+        <g transform="translate(92.42,59.62)" id="img-5b874d3c-17">
+          <path fill="none" d="M0,-46.97 L0,46.97 " class="primitive"/>
+        </g>
+        <g transform="translate(127.01,59.62)" id="img-5b874d3c-18">
+          <path fill="none" d="M0,-46.97 L0,46.97 " class="primitive"/>
+        </g>
+        <g transform="translate(161.61,59.62)" id="img-5b874d3c-19">
+          <path fill="none" d="M0,-46.97 L0,46.97 " class="primitive"/>
+        </g>
+        <g transform="translate(196.2,59.62)" id="img-5b874d3c-20">
+          <path fill="none" d="M0,-46.97 L0,46.97 " class="primitive"/>
+        </g>
+      </g>
+      <g class="plotpanel" id="img-5b874d3c-21">
+        <metadata>
+          <boundingbox value="21.230555555555554mm 12.644444444444446mm 176.96944444444443mm 93.94722222222222mm"/>
+          <unitbox value="471.0931603205447 204.44705228374664 2557.8136793589106 -208.8941045674933"/>
+        </metadata>
+        <g class="geometry" stroke="#000000" stroke-opacity="0.000" fill="#4C404B" font-size="4.23" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" id="img-5b874d3c-22">
+          <g class="marker" id="img-5b874d3c-23">
+            <g transform="translate(148.41,29.43)" id="img-5b874d3c-24" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(6.69,-6.54)">New York</text>
+              </g>
+            </g>
+            <g transform="translate(119.13,96.07)" id="img-5b874d3c-25" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(9.43,-0.09)">Miami</text>
+              </g>
+            </g>
+            <g transform="translate(87.72,87.36)" id="img-5b874d3c-26" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(12.09,0.67)">Chicago</text>
+              </g>
+            </g>
+            <g transform="translate(76.3,100.21)" id="img-5b874d3c-27" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-9.72,0.72)">Dallas</text>
+              </g>
+            </g>
+            <g transform="translate(77.85,99.29)" id="img-5b874d3c-28" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-5.6,-4.98)">Houston</text>
+              </g>
+            </g>
+            <g transform="translate(188.35,90.33)" id="img-5b874d3c-29" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-16.58,-0.96)">Los Angeles</text>
+              </g>
+            </g>
+            <g transform="translate(84.99,85.22)" id="img-5b874d3c-30" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-4.87,-4.56)">Seattle</text>
+              </g>
+            </g>
+            <g transform="translate(59.33,79.89)" id="img-5b874d3c-31" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-4.78,-4.73)">Boston</text>
+              </g>
+            </g>
+            <g transform="translate(68.8,87.9)" id="img-5b874d3c-32" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-16.42,-0.96)">Philadelphia</text>
+              </g>
+            </g>
+            <g transform="translate(95.42,81.14)" id="img-5b874d3c-33" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(15.8,-0.83)">Washington</text>
+              </g>
+            </g>
+            <g transform="translate(42,98.84)" id="img-5b874d3c-34" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-10.85,0.62)">Atlanta</text>
+              </g>
+            </g>
+            <g transform="translate(171.44,72.6)" id="img-5b874d3c-35" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-7.76,4.55)">San Francisco</text>
+              </g>
+            </g>
+            <g transform="translate(110.2,93.36)" id="img-5b874d3c-36" visibility="visible">
+              <g class="primitive">
+                <text text-anchor="middle" dy="0.35em" transform="translate(-5.31,4.99)">San Diego</text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="geometry" stroke-width="0.3" id="img-5b874d3c-37">
+          <g class="color_canada" id="img-5b874d3c-38">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-39">
+              <g transform="translate(110.2,93.36)" id="img-5b874d3c-40">
+                <circle cx="0" cy="0" r="1.87" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="13canada" class="datatip" id="img-5b874d3c-41">
+              <g transform="translate(110.2,93.36)" id="img-5b874d3c-42">
+                <g class="primitive">
+                  <text dy="-1.2em">1756.9398152761387<tspan x="0" dy="1.1000em">24.97878578640524</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_canada" id="img-5b874d3c-43">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-44">
+              <g transform="translate(171.44,72.6)" id="img-5b874d3c-45">
+                <circle cx="0" cy="0" r="1.97" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="12canada" class="datatip" id="img-5b874d3c-46">
+              <g transform="translate(171.44,72.6)" id="img-5b874d3c-47">
+                <g class="primitive">
+                  <text dy="-1.2em">2642.1143298517472<tspan x="0" dy="1.1000em">71.1344849290359</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_canada" id="img-5b874d3c-48">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-49">
+              <g transform="translate(42,98.84)" id="img-5b874d3c-50">
+                <circle cx="0" cy="0" r="2.27" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="11canada" class="datatip" id="img-5b874d3c-51">
+              <g transform="translate(42,98.84)" id="img-5b874d3c-52">
+                <g class="primitive">
+                  <text dy="-1.2em">771.2978381061398<tspan x="0" dy="1.1000em">12.79095419865289</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_canada" id="img-5b874d3c-53">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-54">
+              <g transform="translate(95.42,81.14)" id="img-5b874d3c-55">
+                <circle cx="0" cy="0" r="2.28" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="10canada" class="datatip" id="img-5b874d3c-56">
+              <g transform="translate(95.42,81.14)" id="img-5b874d3c-57">
+                <g class="primitive">
+                  <text dy="-1.2em">1543.431382195352<tspan x="0" dy="1.1000em">52.14602786332657</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_canada" id="img-5b874d3c-58">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-59">
+              <g transform="translate(68.8,87.9)" id="img-5b874d3c-60">
+                <circle cx="0" cy="0" r="2.37" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="9canada" class="datatip" id="img-5b874d3c-61">
+              <g transform="translate(68.8,87.9)" id="img-5b874d3c-62">
+                <g class="primitive">
+                  <text dy="-1.2em">1158.6229954708278<tspan x="0" dy="1.1000em">37.11153687814084</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_canada" id="img-5b874d3c-63">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-64">
+              <g transform="translate(59.33,79.89)" id="img-5b874d3c-65">
+                <circle cx="0" cy="0" r="2.14" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="8canada" class="datatip" id="img-5b874d3c-66">
+              <g transform="translate(59.33,79.89)" id="img-5b874d3c-67">
+                <g class="primitive">
+                  <text dy="-1.2em">1021.7501515638608<tspan x="0" dy="1.1000em">54.924677470995604</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_canada" id="img-5b874d3c-68">
+            <g fill-opacity="0.5" stroke="#000000" fill="#FF0000" class="marker" id="img-5b874d3c-69">
+              <g transform="translate(84.99,85.22)" id="img-5b874d3c-70">
+                <circle cx="0" cy="0" r="1.97" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="7canada" class="datatip" id="img-5b874d3c-71">
+              <g transform="translate(84.99,85.22)" id="img-5b874d3c-72">
+                <g class="primitive">
+                  <text dy="-1.2em">1392.6984975707198<tspan x="0" dy="1.1000em">43.079288692952694</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_us" id="img-5b874d3c-73">
+            <g fill-opacity="0.5" stroke="#000000" fill="#00FFFF" class="marker" id="img-5b874d3c-74">
+              <g transform="translate(188.35,90.33)" id="img-5b874d3c-75">
+                <circle cx="0" cy="0" r="3.24" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="6us" class="datatip" id="img-5b874d3c-76">
+              <g transform="translate(188.35,90.33)" id="img-5b874d3c-77">
+                <g class="primitive">
+                  <text dy="-1.2em">2886.6095582615376<tspan x="0" dy="1.1000em">31.72213414052163</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_us" id="img-5b874d3c-78">
+            <g fill-opacity="0.5" stroke="#000000" fill="#00FFFF" class="marker" id="img-5b874d3c-79">
+              <g transform="translate(77.85,99.29)" id="img-5b874d3c-80">
+                <circle cx="0" cy="0" r="2.39" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="5us" class="datatip" id="img-5b874d3c-81">
+              <g transform="translate(77.85,99.29)" id="img-5b874d3c-82">
+                <g class="primitive">
+                  <text dy="-1.2em">1289.493757575055<tspan x="0" dy="1.1000em">11.794165958410034</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_us" id="img-5b874d3c-83">
+            <g fill-opacity="0.5" stroke="#000000" fill="#00FFFF" class="marker" id="img-5b874d3c-84">
+              <g transform="translate(76.3,100.21)" id="img-5b874d3c-85">
+                <circle cx="0" cy="0" r="2.37" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="4us" class="datatip" id="img-5b874d3c-86">
+              <g transform="translate(76.3,100.21)" id="img-5b874d3c-87">
+                <g class="primitive">
+                  <text dy="-1.2em">1266.9750776571625<tspan x="0" dy="1.1000em">9.741540211926898</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_us" id="img-5b874d3c-88">
+            <g fill-opacity="0.5" stroke="#000000" fill="#00FFFF" class="marker" id="img-5b874d3c-89">
+              <g transform="translate(87.72,87.36)" id="img-5b874d3c-90">
+                <circle cx="0" cy="0" r="2.8" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="3us" class="datatip" id="img-5b874d3c-91">
+              <g transform="translate(87.72,87.36)" id="img-5b874d3c-92">
+                <g class="primitive">
+                  <text dy="-1.2em">1432.140390437394<tspan x="0" dy="1.1000em">38.321227812714994</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_us" id="img-5b874d3c-93">
+            <g fill-opacity="0.5" stroke="#000000" fill="#00FFFF" class="marker" id="img-5b874d3c-94">
+              <g transform="translate(119.13,96.07)" id="img-5b874d3c-95">
+                <circle cx="0" cy="0" r="2.43" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="2us" class="datatip" id="img-5b874d3c-96">
+              <g transform="translate(119.13,96.07)" id="img-5b874d3c-97">
+                <g class="primitive">
+                  <text dy="-1.2em">1886.0242667128275<tspan x="0" dy="1.1000em">18.94094846550946</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="color_us" id="img-5b874d3c-98">
+            <g fill-opacity="0.5" stroke="#000000" fill="#00FFFF" class="marker" id="img-5b874d3c-99">
+              <g transform="translate(148.41,29.43)" id="img-5b874d3c-100">
+                <circle cx="0" cy="0" r="3.95" class="primitive"/>
+              </g>
+            </g>
+            <g fill-opacity="0" ilabel="1us" class="datatip" id="img-5b874d3c-101">
+              <g transform="translate(148.41,29.43)" id="img-5b874d3c-102">
+                <g class="primitive">
+                  <text dy="-1.2em">2309.2111324396715<tspan x="0" dy="1.1000em">167.11622659395948</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5b874d3c-103">
+    <g transform="translate(20.23,104.59)" id="img-5b874d3c-104">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0</text>
+      </g>
+    </g>
+    <g transform="translate(20.23,82.1)" id="img-5b874d3c-105">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">50</text>
+      </g>
+    </g>
+    <g transform="translate(20.23,59.62)" id="img-5b874d3c-106">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">100</text>
+      </g>
+    </g>
+    <g transform="translate(20.23,37.13)" id="img-5b874d3c-107">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">150</text>
+      </g>
+    </g>
+    <g transform="translate(20.23,14.64)" id="img-5b874d3c-108">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">200</text>
+      </g>
+    </g>
+  </g>
+  <g font-size="5.64" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5b874d3c-109">
+    <g transform="translate(9.47,57.62)" id="img-5b874d3c-110">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.35em" transform="rotate(-90,0, 2)">Rides Per Capita</text>
+      </g>
+    </g>
+  </g>
+  <g font-size="5.64" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5b874d3c-111">
+    <g transform="translate(109.72,5)" id="img-5b874d3c-112">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Rides Per Capita vs Population Density (2023)</text>
+      </g>
+    </g>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-5b874d3c-4">
+    <path d="M21.23,12.64 L198.2,12.64 198.2,106.59 21.23,106.59 " />
+  </clipPath>
+</defs>
+</svg>

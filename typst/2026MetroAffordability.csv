@@ -1,0 +1,16 @@
+City,Minimum Wage,Monthly Fare USD,Hours per Pass,Transit Agency,Weekly cap
+Dallas,$7.25,$192.00,26.5,Dallas Area Rapid Transit,
+San Diego,$16.50,$182.00,11.0,San Diego Metropolitan Transit System,
+Atlanta,$7.25,$95.00,13.1,Metropolitan Atlanta Rapid Transit Authority,
+Boston,$15.00,$90.00,6.0,Massachusetts Bay Transportation Authority,
+Philadelphia,$7.25,$116.00,16.0,Southeastern Pennsylvania Transportation Authority,
+Seattle,$21.30,$180.00,8.5,"King County, dba: King County Metro",
+Chicago,$16.60,$75.00,4.5,Chicago Transit Authority,
+Washington,$17.95,$216.00,12.0,"Washington Metropolitan Area Transit Authority, dba: Washington Metro",
+Miami,$14.00,$155.00,11.1,County of Miami-Dade,
+New York,$17.00,$140.00,8.2,MTA New York City Transit,$35
+San Francisco,$19.18,$104.00,5.4,"City and County of San Francisco, dba: San Francisco Municipal Transportation Agency",
+Los Angeles,$17.81,$72.00,4.0,"Los Angeles County Metropolitan Transportation Authority , dba: Metro",$18
+Montreal,$16.10,$203.10,12.6,Société de transport de Montréal,
+Toronto,$17.60,$115.00,6.5,Toronto Transit Commission,
+Vancouver,$17.85,$148.58,8.3,TransLink,
